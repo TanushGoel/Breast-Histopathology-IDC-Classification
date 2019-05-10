@@ -2,6 +2,7 @@
 
 A convolutional neural network that classifies between 133 dog breeds given picture input. The algorithm detects if there is a dog or a human in the image and will predict the breed of the dog or what dog breed the human resembles.
 
+
 This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as a part of the Convolutional Neural Networks (CNN) section in the Advanced Machine Learning semester (semester 2).
 
 
@@ -13,8 +14,9 @@ This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as
 * Download the [opencv_haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 ## Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
+
 ```
-!git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git .
+!git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git
 !cd Dog_Breed_Classifier_CNN
 
 !jupyter notebook dog-app.ipynb
@@ -40,7 +42,7 @@ Step 6: Write your Algorithm
 Step 7: Test Your Algorithm
 
 
-## Libraries Built With
+## Libraries
 
 - [Keras](https://keras.io/) 
 - [OpenCV](https://opencv.org/) 
@@ -49,3 +51,5 @@ Step 7: Test Your Algorithm
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
+
+## 
