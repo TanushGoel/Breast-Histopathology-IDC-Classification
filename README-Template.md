@@ -56,3 +56,7 @@ Step 7: Test Your Algorithm
 !cd Dog_Breed_Classifier_CNN
 !jupyter notebook dog-app.ipynb
 ```
+
+### Contribution
+
+Contribution to this classifier is highly encouraged. There is a lot of room for growth in this project.
