@@ -5,7 +5,9 @@ A convolutional neural network that classifies between 133 dog breeds given pict
 
 This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as a part of the Convolutional Neural Networks (CNN) section in the Advanced Machine Learning semester (semester 2).
 
-![test_image](https://github.com/TanushGoel/Dog_Breed_Classifier_CNN/issues/1#issue-442597069)
+![test_image_dog](https://github.com/TanushGoel/Dog_Breed_Classifier_CNN/issues/1#issue-442597069)
+![test_image_neither](https://github.com/TanushGoel/Dog_Breed_Classifier_CNN/issues/1#issuecomment-491207517)
+![test_image_human]()
 
 ## Import Datasets
 
