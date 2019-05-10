@@ -1,6 +1,8 @@
-# Project Title
+#Dog_Breed_Classifier_CNN
 
-One Paragraph of project description goes here
+A convolutional neural network that classifies between 133 dog breeds given picture input. The algorithm detects if there is a dog or a human in the image and will predict the breed of the dog or what dog breed the human resembles.
+
+This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as a part of the Convolutional Neural Networks (CNN) section in the Advanced Machine Learning semester (semester 2).
 
 ## Getting Started
 
