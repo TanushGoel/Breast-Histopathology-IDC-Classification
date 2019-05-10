@@ -5,6 +5,8 @@ A convolutional neural network that classifies between 133 dog breeds given pict
 
 This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as a part of the Convolutional Neural Networks (CNN) section in the Advanced Machine Learning semester (semester 2).
 
+![test_image](https://github.com/TanushGoel/Dog_Breed_Classifier_CNN/issues/1#issue-442597069)
+
 ## Import Datasets
 
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
@@ -50,5 +52,3 @@ Step 7: Test Your Algorithm
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
-
-## 
