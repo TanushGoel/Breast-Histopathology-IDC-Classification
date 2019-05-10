@@ -39,12 +39,11 @@ Step 7: Test Your Algorithm
 
 ## Libraries
 
-- [Keras](https://keras.io/) 
 - [OpenCV](https://opencv.org/) 
+- [Keras](https://keras.io/) 
 - [Matplotlib](https://matplotlib.org/) 
 - [Numpy](http://www.numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-- [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 
