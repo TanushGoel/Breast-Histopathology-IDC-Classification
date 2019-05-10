@@ -5,7 +5,6 @@ A convolutional neural network that classifies between 133 dog breeds given pict
 
 This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as a part of the Convolutional Neural Networks (CNN) section in the Advanced Machine Learning semester (semester 2).
 
-
 ## Import Datasets
 
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
