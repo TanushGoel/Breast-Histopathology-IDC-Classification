@@ -13,7 +13,9 @@ This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as
 
 
 ```
-Give examples
+!git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git .
+!cd Dog_Breed_Classifier_CNN
+!jupyter notebook Dog_Breed_Classifier_CNN.ipynb
 ```
 
 ### Installing
