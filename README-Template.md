@@ -47,7 +47,9 @@ Step 7: Test Your Algorithm
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 
-### Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
+### Installation
+
+#### Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
 
 ```
 !git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git
