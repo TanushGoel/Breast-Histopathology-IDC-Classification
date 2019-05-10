@@ -17,14 +17,6 @@ This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 * Download the [opencv_haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-## Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
-
-```
-!git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git
-!cd Dog_Breed_Classifier_CNN
-!jupyter notebook dog-app.ipynb
-```
-
 
 ## Steps
 
@@ -54,3 +46,12 @@ Step 7: Test Your Algorithm
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
+
+
+## Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
+
+```
+!git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git
+!cd Dog_Breed_Classifier_CNN
+!jupyter notebook dog-app.ipynb
+```
