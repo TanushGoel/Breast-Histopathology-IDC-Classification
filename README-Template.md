@@ -11,14 +11,14 @@ This is a project for Udacity's Machine Learning Engineer Nanodegree Program, as
 
 ![test_image_neither](https://github.com/TanushGoel/Dog_Breed_Classifier_CNN/issues/1#issuecomment-491207517)
 
-## Import Datasets
+### Import Datasets
 
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 * Download the [opencv_haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 
-## Steps
+### Steps
 
 Step 0: Import Datasets
 
@@ -37,7 +37,7 @@ Step 6: Write your Algorithm
 Step 7: Test Your Algorithm
 
 
-## Libraries
+### Libraries
 
 - [OpenCV](https://opencv.org/) 
 - [Keras](https://keras.io/) 
@@ -47,7 +47,7 @@ Step 7: Test Your Algorithm
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 
-## Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
+### Clone Repository, Navigate to the Downloaded Folder, and Open the Jupyter Notebook
 
 ```
 !git clone https://github.com/TanushGoel/Dog_Breed_Classifier_CNN.git
