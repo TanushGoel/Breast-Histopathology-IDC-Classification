@@ -2,7 +2,7 @@
 A convolutional neural network that classifies whether or not invasive ductal carcinoma (IDC) is present in an image. 
 
 ### [Download Data](https://www.kaggle.com/paultimothymooney/breast-histopathology-images/downloads/breast-histopathology-images.zip/1)
-1.53GB breast histopathology image dataset from Kaggle: 
+Breast Histopathology image dataset from Kaggle: 
 
 >https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
